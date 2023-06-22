@@ -1,0 +1,14 @@
+.c1, 
+.c2 {
+    font-size: 36px;
+    border: solid grey;
+}
+
+.c1 {
+    background-color: black;
+    color: white;
+}
+
+.c2 {
+    background-color: yellow;
+}
